@@ -1,4 +1,5 @@
 <?php
 print "Hello, World! php version is " . PHP_VERSION . "\n";
 print "ABCDEF\n";
-?j>
+print "5678\n";
+?>
